@@ -4,3 +4,5 @@
 1. Introduction
 1. Data Wrangling 
 1. Exploratory Data Analysis 
+2. Model Development 
+3. Model Evaluation 
